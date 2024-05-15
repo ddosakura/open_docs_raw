@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "217beffa6f973cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b2d3a3a4a3f479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52026337f54829a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9cbe3a2a5266f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6b8b81ed09c891d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4348b85fffe8292a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e6b2bedc44ae30a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b71ef18b04cd17f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4eb773533015a89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf85ae92d81991bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3172239395c24927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4de91c32426e3606",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44730894005a5017",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdbffac281cf3862",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f52026337f54829a",
+  "lastOpenFiles": [
+    "backup.sh",
+    "typescript/release-notes/typescript-5-4.zh.md",
+    "typescript/release-notes/typescript-5-4.fmt.md",
+    "typescript/release-notes/typescript-5-4.md",
+    "typescript/release-notes/typescript-5-3.zh.md",
+    "typescript/release-notes/typescript-5-3.fmt.md",
+    "typescript/release-notes/typescript-5-3.md",
+    "typescript/release-notes/typescript-5-2.zh.md",
+    "typescript/release-notes/typescript-5-2.fmt.md",
+    "typescript/release-notes/typescript-5-2.md",
+    "typescript/release-notes/typescript-5-1.zh.md",
+    "typescript/release-notes/typescript-5-1.fmt.md",
+    "typescript/release-notes/typescript-5-1.md",
+    "typescript/release-notes/typescript-5-0.zh.md",
+    "typescript/release-notes/typescript-5-0.fmt.md",
+    "typescript/release-notes/typescript-5-0.md",
+    "README.md",
+    "typescript/release-notes/typescript-5-0.zh.ipynb",
+    "typescript/release-notes/typescript-5-0.ipynb",
+    "typescript/release-notes/typescript-5-1.zh.ipynb",
+    "typescript/release-notes/typescript-5-1.ipynb",
+    "typescript/release-notes/typescript-5-2.zh.ipynb",
+    "typescript/release-notes/typescript-5-2.ipynb",
+    "typescript/release-notes/typescript-5-3.zh.ipynb",
+    "typescript/release-notes/typescript-5-3.ipynb",
+    "typescript/release-notes/typescript-5-4.zh.ipynb",
+    "typescript/release-notes/typescript-5-4.ipynb",
+    "Welcome.md"
+  ]
+}
