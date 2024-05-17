@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "typescript/release-notes/typescript-5-0.fmt.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hunyuan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "typescript/release-notes/typescript-5-0.fmt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "typescript/release-notes/typescript-5-0.fmt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "typescript/release-notes/typescript-5-0.fmt.md"
               }
             }
           }
@@ -146,8 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f52026337f54829a",
+  "active": "3e6b2bedc44ae30a",
   "lastOpenFiles": [
+    "typescript/release-notes/typescript-5-1.md",
+    "typescript/release-notes/typescript-5-1.fmt.md",
+    "typescript/release-notes/typescript-5-1.zh.md",
+    "typescript/release-notes/typescript-5-2.md",
+    "typescript/release-notes/typescript-5-2.fmt.md",
+    "README.md",
     "backup.sh",
     "typescript/release-notes/typescript-5-4.zh.md",
     "typescript/release-notes/typescript-5-4.fmt.md",
@@ -156,15 +163,9 @@
     "typescript/release-notes/typescript-5-3.fmt.md",
     "typescript/release-notes/typescript-5-3.md",
     "typescript/release-notes/typescript-5-2.zh.md",
-    "typescript/release-notes/typescript-5-2.fmt.md",
-    "typescript/release-notes/typescript-5-2.md",
-    "typescript/release-notes/typescript-5-1.zh.md",
-    "typescript/release-notes/typescript-5-1.fmt.md",
-    "typescript/release-notes/typescript-5-1.md",
     "typescript/release-notes/typescript-5-0.zh.md",
     "typescript/release-notes/typescript-5-0.fmt.md",
     "typescript/release-notes/typescript-5-0.md",
-    "README.md",
     "typescript/release-notes/typescript-5-0.zh.ipynb",
     "typescript/release-notes/typescript-5-0.ipynb",
     "typescript/release-notes/typescript-5-1.zh.ipynb",
@@ -174,7 +175,6 @@
     "typescript/release-notes/typescript-5-3.zh.ipynb",
     "typescript/release-notes/typescript-5-3.ipynb",
     "typescript/release-notes/typescript-5-4.zh.ipynb",
-    "typescript/release-notes/typescript-5-4.ipynb",
     "Welcome.md"
   ]
 }

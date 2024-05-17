@@ -13,8 +13,8 @@
 ## 文档来源
 
 - typescript
-	- documentation
-		- https://github.com/microsoft/TypeScript-Website/tree/v2/packages/documentation/copy/en/release-notes
-	- release-notes(experimental)
-		- https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html
-		- `myooz-copilot/notebooks/prompts/assistant_reader/release-notes_typescript.ipynb`
+  - documentation
+    - https://github.com/microsoft/TypeScript-Website/tree/v2/packages/documentation/copy/en
+  - release-notes(experimental)
+    - https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html
+    - `myooz-copilot/notebooks/prompts/assistant_reader/release-notes_typescript.ipynb`
