@@ -16,6 +16,6 @@
   - documentation
     - https://github.com/microsoft/TypeScript-Website/tree/v2/packages/documentation/copy/en
     - `myooz-copilot/notebooks/prompts/assistant_reader/github_markdown.ipynb`
-  - release-notes(experimental)
+  - ~~release-notes(experimental)~~
     - https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html
     - `myooz-copilot/notebooks/prompts/assistant_reader/release-notes_typescript.ipynb`
